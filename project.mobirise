@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SAFECAR",
-    "currentPage": "page4.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -52,7 +52,7 @@
     "robotsSwitcher": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "SVR.html": {
@@ -4216,7 +4216,7 @@
         }
       ]
     },
-    "page4.html": {
+    "regulamin.html": {
       "settings": {
         "title": "Regulamin prywatności",
         "meta_descr": "",
